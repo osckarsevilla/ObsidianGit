@@ -25,5 +25,23 @@
       ],
       "key": "S"
     }
+  ],
+  "git-sync:pull-git": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "git-sync:push-git": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }
