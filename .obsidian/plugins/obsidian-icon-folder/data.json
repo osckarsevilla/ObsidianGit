@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiTemplate",
+      "SiGoogletasks",
+      "SiJellyfin",
+      "SiDigikeyelectronics",
+      "SiProxmox"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Aguacatec": "🥑",
+  "Telegram": {
+    "iconName": "SiTelegram",
+    "iconColor": "#326eae"
+  },
+  "Telegra.ph": "SiTelegraph",
+  "Tareas": {
+    "iconName": "SiGoogletasks",
+    "iconColor": "#457a10"
+  },
+  "web clipper": {
+    "iconName": "SiObsidian",
+    "iconColor": "#4f3d7f"
+  },
+  "UPO": "🧑‍🎓",
+  "Proxmox": {
+    "iconName": "SiProxmox",
+    "iconColor": "#d14f23"
+  },
+  "Clientes": {
+    "iconName": "SiJellyfin",
+    "iconColor": "#3c61d3"
+  },
+  "Plantillas": {
+    "iconName": "TiTemplate",
+    "iconColor": "#108aa8"
+  }
+}
