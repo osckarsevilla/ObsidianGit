@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Transparent",
+  "theme": "obsidian",
+  "accentColor": "#a49abc",
+  "enabledCssSnippets": [
+    "cards"
+  ]
+}
