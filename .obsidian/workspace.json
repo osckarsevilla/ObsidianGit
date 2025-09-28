@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "efef800028dfd599",
+    "type": "split",
+    "children": [
+      {
+        "id": "d75f363961f17901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf8b294a3b01d9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebc4e65dbac994d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f0c001c8d0b6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fbfb79084b3543f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "20f5af0fcb126da3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a49b85431644c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "309f8ae88dc744f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d2adfc3e66f134a",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e0393404b78e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b98c3c4de7736da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "510432df1012debb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4bde32c7aa67d48a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b48eeb24a18fa9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "6f6a24fb1c008fe6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b08bd79458ccdbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Propiedades del archivo"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Mostrar sincronización de personalización": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "20f5af0fcb126da3",
+  "lastOpenFiles": [
+    "README.md",
+    "{{date}}.md",
+    "UPO/22 Septiembre 2025.md",
+    "UPO/26 Septiembre 2025.md",
+    "Aguacatec/Talleres/00 Menú.md",
+    "Aguacatec/Talleres/01 Obsidian.md",
+    "Aguacatec/Talleres/02 Introduccion.md",
+    "Aguacatec/Talleres/Obsidian/01 Obsidian.md",
+    "Aguacatec/Talleres/Menú.md",
+    "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
+    "Telegram/voices/voice_1736181_16 - 20250926203734761.oga",
+    "web clipper/Guía Obsidian con sincronización instantánea, gratuita y auto-hospedada.md",
+    "Telegram/voices",
+    "Telegram/Enviado desde la MiPad - 20250926022640157.md",
+    "Telegram/otra vez probando telegram des - 20250926022122751.md",
+    "Telegram/Hola pruebp a ver si funciona - 20250926022412080.md",
+    "Telegram/Probando el bot desde pixel 8a - 20250926021443745.md",
+    "Telegram/Config VPN___Verificar mañana  - 20250926022736693.md",
+    "Tareas/Consultorias.md",
+    "Telegram",
+    "Tareas/Crear escaleta para Curso sobre notas y aplicaciones de notas.md",
+    "Dataview Tareas.md",
+    "Clientes/Bombero2.md",
+    "Clientes/Papa.md",
+    "Clientes/Lista 1.md",
+    "Pruebas sync/Probando si funciona sync.md",
+    "Pruebas sync/Prueba2.md",
+    "Pruebas sync",
+    "Pruebas sync/Sin título.md",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309133742 1.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309133105 1.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309123430.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309131417.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309131103.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309130515.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309133742.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309133105.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309132239 1.png",
+    "Proxmox/Instalación Proxmox/Pasted image 20230309123832.png",
+    "Proxmox/Instalación Proxmox",
+    "Proxmox",
+    "Telegra.ph/Tutoriales ayuda/Update ESPHome 2024.6.0 - 19 Junio 2024.md",
+    "Telegra.ph/Aplicaciones Android.md",
+    "Telegra.ph/Docker",
+    "Telegra.ph/Unraid",
+    "Telegra.ph/Tutoriales ayuda"
+  ]
+}
