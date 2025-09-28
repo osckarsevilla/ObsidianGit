@@ -1,0 +1,26 @@
+{
+  "format": {
+    "timeFormat": "HH:mm",
+    "dataViewSyntax": true
+  },
+  "calendars": {
+    "Oscar y Rocio": {
+      "icsName": "Oscar y Rocio",
+      "icsUrl": "webcal://p09-caldav.icloud.com/published/2/MTMwNDE0MDUwNjEzMDQxNCFj-BZgqi71ReG7sNhEzo2Y7s7XMf4-bGcjLjTY1BD-Fzgo5EkUp-3bbvQY0h_n_lWaVOV1t6I__UiD4B27OKI",
+      "ownerEmail": "",
+      "format": {
+        "checkbox": true,
+        "includeEventEndTime": true,
+        "icsName": true,
+        "summary": true,
+        "location": true,
+        "description": true,
+        "calendarType": "remote",
+        "showAttendees": false,
+        "showOngoing": false,
+        "showTransparentEvents": false
+      },
+      "calendarType": "remote"
+    }
+  }
+}
