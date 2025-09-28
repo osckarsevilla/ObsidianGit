@@ -213,10 +213,6 @@
       "tasknotes:Create new task": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Mostrar sincronización de personalización": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "remotely-save:Remotely Save": false,
       "obsidian42-brat:BRAT": false
@@ -225,10 +221,10 @@
   "active": "fdf8b294a3b01d9d",
   "lastOpenFiles": [
     "README.md",
+    "Aguacatec/Talleres/00 Menú.md",
     "{{date}}.md",
     "UPO/22 Septiembre 2025.md",
     "UPO/26 Septiembre 2025.md",
-    "Aguacatec/Talleres/00 Menú.md",
     "Aguacatec/Talleres/01 Obsidian.md",
     "Aguacatec/Talleres/02 Introduccion.md",
     "Aguacatec/Talleres/Obsidian/01 Obsidian.md",
