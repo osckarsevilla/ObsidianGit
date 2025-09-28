@@ -11,10 +11,14 @@
             "id": "fdf8b294a3b01d9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Aguacatec/Talleres/00 Menú.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "00 Menú"
             }
           }
         ]
@@ -218,7 +222,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "20f5af0fcb126da3",
+  "active": "fdf8b294a3b01d9d",
   "lastOpenFiles": [
     "README.md",
     "{{date}}.md",
