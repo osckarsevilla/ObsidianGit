@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/28-09-2025.md",
+                "file": "Aguacatec/Talleres/00 Menù.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-09-2025"
+              "title": "00 Menù"
             }
           }
         ]
@@ -208,7 +208,8 @@
               "title": "Propiedades de los archivos para favicon_lasCharlas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,10 +235,46 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "a889c3aca7329d86",
+  "active": "14534c75d733a84e",
   "lastOpenFiles": [
+    "Aguacatec/Talleres/00 Menú.md",
+    "Aguacatec/Talleres/00 Menù.md",
+    "00 Menú.md",
+    "Dataview Tareas.md",
     "Notas diarias/29-09-2025.md",
     "Notas diarias/28-09-2025.md",
+    "202509290406.md",
+    "202509290407.md",
+    "Sin título.base",
+    "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
+    "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "UPO/Gestion de dìas y Vacaciones.md",
+    "Tareas/Consultorias.md",
+    "Tareas/Crear escaleta para Curso sobre notas y aplicaciones de notas.md",
+    "Recursos/GTD.md",
+    "Recursos/Método Zettelkasten.md",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131845.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309132239.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131417.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309124357.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123832.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133105.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131103.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123715.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123243.png",
+    "Proxmox/Instalaci贸n Proxmox",
+    "Plantillas/{{date}}Horas UPO.md",
+    "Plantillas/Plantilla cliente IPTV.md",
+    "Plantillas/Template, Ejemplo template.md",
+    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/ArchLinux/Instalaci锟斤拷n Archlinux.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/UPOSync/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "Clientes/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
+    "Clientes/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)",
+    "Clientes/Bombero2.md",
+    "Aguacatec/Talleres/03 Tareas o TASK.md",
     "Notas diarias/01-10-2025.md",
     "Plantillas/Tareas.md",
     "Tareas/Untitled.md",
@@ -245,42 +282,6 @@
     "Tareas/Untitled 1.md",
     "Tareas/Aguacatec.md",
     "Sin título.md",
-    "Tareas/ToDo.md",
-    "Tareas/Dataview Tareas.md",
-    "Plantillas/Lista 1.md",
-    "Plantillas/Nota Diaria Plantilla.md",
-    "Clientes/Untitled.md",
-    "Notas diarias/Sin título.md",
-    "Pruebas/Linea Tiempo/Linea tiempo.md",
-    "Clientes/Listado.md",
-    "Pruebas/Linea Tiempo",
-    "Aguacatec/Talleres/01 Obsidian.md",
-    "Aguacatec/Talleres/00 Menú.md",
-    "Recursos/cards.css",
-    "Plantillas/Daily Note Template.md",
-    "Probando.md",
-    "Plantillas/Base/Daily.base.md",
-    "Plantillas/Base",
-    "Aguacatec/Talleres/02 Introduccion.md",
-    "Clientes/Abel @abelgui.md",
-    "Clientes/01NetTv - Login.md",
-    "Clientes/Xavi Bombero.md",
-    "Recursos/lascharlas.ico",
-    "Recursos/favicon_lasCharlas.png",
-    "Recursos/Convert To ICO.ico",
-    "Recursos/Aplicaciones Notas.png",
-    "Recursos",
-    "Aplicaciones Notas.png",
-    "Pruebas/Presenctaaciones",
-    "Pruebas/TODO",
-    "Pruebas/Alias",
-    "Notas diarias",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309133742 1.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309133105 1.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309123430.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309131417.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309131103.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309130515.png",
-    "Proxmox/Instalación Proxmox/Pasted image 20230309133742.png"
+    "Pruebas/Linea Tiempo"
   ]
 }
