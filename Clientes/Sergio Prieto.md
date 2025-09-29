@@ -5,6 +5,14 @@ tags:
   - iboplayer
 description: Parámetros y datos de usuario con IboPlayer
 nombre: Sergio Prieto
+banner_y: "40"
+banner-fade: "-500"
+content-start: "50"
+telefono:
+VPN: false
+aliases:
+  - listado
+telegram:
 ---
 
 
