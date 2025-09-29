@@ -4,8 +4,8 @@ tags:
   - cliente
 type: listado usuarios
 descripción: Parámetros y datos de usuario, enlaces para la descarga de las aplicaciones para android principalmente
-fecha: <%tp.date.now("DD/MM/YYY")%>
-fecha ultima modificación: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
+fecha: <%tp.date.now('DD-MM-YY')%>
+fecha ultima modificación: <% tp.file.last_modified_date('dddd Do MMMM YYYY HH:mm') %>
 nombre: <%tp.file.title%>
 operador:
   - Jazztel 
@@ -18,6 +18,9 @@ banner-fade: "-500"
 content-start: "50"
 telefono: ""
 telegram: ""
+VPN:
+aliases:
+  - cliente
 ---
 
 ---
@@ -61,7 +64,7 @@ telegram: ""
 > 147776
 > ```
 > 
-> Alta: `  /  /    /` 
+> Alta: `<%tp.date.now('DD-MM-YY')%>`
 > Baja : `  /  /    /`
 
 
