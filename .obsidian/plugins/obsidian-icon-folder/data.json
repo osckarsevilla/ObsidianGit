@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiAsset",
+      "🏭",
+      "📅",
       "TiTemplate",
-      "SiGoogletasks",
-      "SiJellyfin",
-      "SiDigikeyelectronics",
-      "SiProxmox"
+      "SiGoogletasks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,8 @@
   "Plantillas": {
     "iconName": "TiTemplate",
     "iconColor": "#108aa8"
-  }
+  },
+  "Notas diarias": "📅",
+  "Pruebas": "🏭",
+  "Recursos": "TiAsset"
 }
