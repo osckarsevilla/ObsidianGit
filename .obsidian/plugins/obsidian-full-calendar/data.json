@@ -1,0 +1,38 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "name": "Rocío y Óscar",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/1304140506/calendars/358843a8-ebeb-4fa2-b786-325589ecec3f/",
+      "color": "#44A703",
+      "username": "osckar@osckarsevilla.es",
+      "password": "zafl-nuqb-waau-hbxt"
+    },
+    {
+      "type": "caldav",
+      "name": "google",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/1304140506/calendars/715C12FE-CEC9-4A51-8F36-5FE41A538E2C/",
+      "color": "#FF2D55",
+      "username": "osckar@osckarsevilla.es",
+      "password": "zafl-nuqb-waau-hbxt"
+    },
+    {
+      "type": "caldav",
+      "name": "Zepp",
+      "url": "https://caldav.icloud.com",
+      "homeUrl": "https://caldav.icloud.com/1304140506/calendars/8AAC482B-C196-4DD5-B2FD-D8472C3DC902/",
+      "color": "#0000FF",
+      "username": "osckar@osckarsevilla.es",
+      "password": "zafl-nuqb-waau-hbxt"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
