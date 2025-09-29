@@ -5,13 +5,22 @@ tags:
   - notas
 tipo: Cursos
 tema: Organización de notas
-fecha inicio:
+fecha inicio: <%tp.date.now('DD/MM/YYYY')%>
 dg-publish: true
 dg-home: true
+cssclasses:
+  - cards
 ---
 
+
+
+
 ```dataview
-list from #cursos 
+TABLE 
+file.folder AS "Cursos Aguacatec"
+FROM "Aguacatec" AND #cursos 
+sort by DESC
+
 ```
 
 
