@@ -2,15 +2,16 @@
 tags:
   - UPO
   - Horas
-source: "[[Horas]]"
+source: "[[UPO/Horas]]"
 description: Gestión de horas de UPO
 Fecha: 16/09/25
-banner: cafeteria
+banner: cafe
 banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
+alias: UPO, Horas
 ---
-Enlaces: [[Horas]]    [[Gestion de días y Vacaciones]]
+Enlaces: [[UPO/Horas]]    [[Gestion de días y Vacaciones]]
 
 
 ---
