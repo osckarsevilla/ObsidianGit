@@ -9,12 +9,12 @@
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "obsidian42-brat",
-  "git-sync",
   "homepage",
   "proletarian-wizard",
   "obsidian-tasks-plugin",
   "slides-extended",
   "obsidian-timeline",
   "simple-time-tracker",
-  "calendar"
+  "calendar",
+  "git-sync"
 ]
