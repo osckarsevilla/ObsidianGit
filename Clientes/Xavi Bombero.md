@@ -9,6 +9,10 @@ banner: tv
 banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
+telefono:
+VPN: false
+aliases:
+  - listado
 ---
 
 
