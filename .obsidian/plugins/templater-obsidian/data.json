@@ -15,8 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "UPO",
+      "template": "Plantillas/Horas.md"
+    },
+    {
       "folder": "Clientes",
       "template": "Plantillas/Lista.md"
+    },
+    {
+      "folder": "Aguacatec",
+      "template": "Plantillas/Cursos.md"
+    },
+    {
+      "folder": "Notas diarias",
+      "template": "Plantillas/Nota Diaria Plantilla.md"
+    },
+    {
+      "folder": "Tareas",
+      "template": "Plantillas/Tareas.md"
     }
   ],
   "enable_file_templates": false,
@@ -27,12 +43,14 @@
     }
   ],
   "syntax_highlighting": true,
-  "syntax_highlighting_mobile": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Plantillas/Lista.md"
+    "Plantillas/Horas.md",
+    "Plantillas/Cursos.md",
+    "Plantillas/Lista.md",
+    "Plantillas/Nota Diaria Plantilla.md",
+    "Plantillas/Tareas.md"
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "intellisense_render": 1
 }
