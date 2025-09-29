@@ -2,5 +2,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "tabSize": 3,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "Recursos"
 }
