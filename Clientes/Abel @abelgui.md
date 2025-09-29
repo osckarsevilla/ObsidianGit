@@ -10,6 +10,8 @@ banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
 telefono: "680646884"
+aliases:
+  - listado
 ---
 
 
