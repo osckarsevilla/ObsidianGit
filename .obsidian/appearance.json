@@ -4,5 +4,6 @@
   "accentColor": "#a49abc",
   "enabledCssSnippets": [
     "cards"
-  ]
+  ],
+  "nativeMenus": true
 }
