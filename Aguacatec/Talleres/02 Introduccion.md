@@ -55,6 +55,9 @@ Con estas premisas vamos a dar una vuelta rápida por las aplicaciones que puede
 ---
 Si eres lector de [Aguacatec](https://aguacatec.es/), sabrás que somo adictos a[Proxmox](https://aguacatec.es/?s=proxmox), es una magnifica solución y que hace de nuestros mini pc suban a un nivel muy alto. Tenemos una web para instalar servicios aplicaciones para nuestros servidores con Proxmox. Vamos a empezar por ahí, entiendo que sera lo mas sencillo para algunos de vosotr@s. La web es la siguiente [scrip proxmox](https://community-scripts.github.io/ProxmoxVE/scripts) , en el aparatado de Documentos y Notas, veras algunas de las muchas aplicaciones que tenemos para poder crear nuestro cerebro digital. Vamos a listar algunas de ellas e intentar ver las características principales.
 
+---
+
+
 
 - [Obsidian](https://obsidian.md/download)
 - [Joplin](https://joplinapp.org/)
@@ -66,7 +69,5 @@ Si eres lector de [Aguacatec](https://aguacatec.es/), sabrás que somo adictos a
 Todas estas aplicaciones cumplen en gran medida los requisitos que pedíamos al principio. Cada una tiene sus virtudes y sus defectos. Pero en definitiva el propósito para el que se crearon lo cumplen muy bien. Tenemos muchas aplicaciones de notas, casi tantas como colores del arcoiris, cada una cumplen las funciones principal que es tomar notas. Trataremos o por lo menos este es el propósito de que al final tengas una idea clara sobre el concepto de la toma de notas y no morir en el intento, yo te dare unos conceptos muy básicos, pero es que cada uno debemos adaptar nuestro flujo a nuestro entorno y nuestro tiempo que podemos dedicar a esa tarea.
 
 ---
-## Tareas 
 
-Si esta es una función que ,la mayoría de aplicaciones que vamos a ver, tiene implementado y que puede ayudarnos en esa planificación de nuestro día a día. Son bastante intuitivas y nos aportan un valor extra para la gestión, tanto en casa como en el trabajo
 
