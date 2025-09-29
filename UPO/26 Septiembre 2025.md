@@ -1,21 +1,22 @@
 ---
 tags:
   - UPO
-source: "[[Horas]]"
+source: "[[UPO/Horas]]"
 description: Gestión de horas de UPO
-Fecha: "{{date}}"
-banner: cafeteria
+Fecha: <%tp.date.now("Do DD/MM/YYYY")%>
+banner: cafe
 banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
+alias: UPO, Horas
 ---
-Enlaces: [[Horas]]    [[Gestion de días y Vacaciones]]
+Enlaces: [[UPO/Horas]]    [[Gestion de días y Vacaciones]]
 
 
 ---
 ----
 
-#  [[UPO/15 Septiembre 2025]]
+#  [[<%tp.file.title%>]]
 
 
 | Entrada | Salida | Horas |
