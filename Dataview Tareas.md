@@ -1,4 +1,0 @@
-```dataview
-TASK 
-FROM "Tareas"
-```
