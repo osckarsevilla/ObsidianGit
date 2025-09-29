@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-YYYY",
+  "folder": "Notas diarias",
+  "template": "Plantillas/Nota Diaria Plantilla",
+  "autorun": true
+}
