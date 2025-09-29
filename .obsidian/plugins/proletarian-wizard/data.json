@@ -1,0 +1,20 @@
+{
+  "version": 4,
+  "ignoredFolders": [
+    "Aguacatec",
+    "Plantillas"
+  ],
+  "ignoreArchivedTodos": true,
+  "defaultDailyWipLimit": 10,
+  "dueDateAttribute": "fecha",
+  "completedDateAttribute": "completedo",
+  "selectedAttribute": "selected",
+  "useDataviewSyntax": true,
+  "firstWeekday": 1,
+  "showWeekEnds": true,
+  "startedAttribute": "iniciado",
+  "trackStartTime": true,
+  "defaultStartHour": "09:00",
+  "defaultEndHour": "22:00",
+  "displayTodayProgressBar": true
+}
