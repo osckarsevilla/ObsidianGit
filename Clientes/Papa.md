@@ -11,6 +11,8 @@ banner-fade: "-500"
 content-start: "50"
 telefono:
 VPN: false
+aliases:
+  - listado
 ---
 
 
