@@ -1,1 +1,2 @@
-# Sincronizar la boveda de Obsidian
+## Sync Obsidian con Git
+
