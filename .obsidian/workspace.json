@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88cdb738bda3d22c",
+        "id": "23717b1e609790ef",
         "type": "tabs",
         "children": [
           {
-            "id": "63ac8d758dcaa745",
+            "id": "3f11fda852782ac5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas diarias/06-10-2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06-10-2025"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -245,11 +241,11 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "63ac8d758dcaa745",
+  "active": "3f11fda852782ac5",
   "lastOpenFiles": [
+    "Notas diarias/06-10-2025.md",
     "README.md",
     "Clientes/Jordi amigo de Abel.md",
-    "Notas diarias/06-10-2025.md",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
     "Telegram/documents/NEXON_FLIXIP_Smarters - 20251006030225449.apk",
     "Telegram/documents/MarMontoriul - 20251006030130433.conf",
