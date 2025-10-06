@@ -17,5 +17,6 @@
   "simple-time-tracker",
   "calendar",
   "git-sync",
-  "telegram-sync"
+  "telegram-sync",
+  "remotely-save"
 ]
