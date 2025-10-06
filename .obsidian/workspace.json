@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23717b1e609790ef",
+        "id": "2fca6aa37744bfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "3f11fda852782ac5",
+            "id": "e8582ce62ee75de2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas diarias/06-10-2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06-10-2025"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -242,43 +238,49 @@
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
       "proletarian-wizard:Open planning": false,
-      "slides-extended:Show slide preview": false
+      "slides-extended:Show slide preview": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "3f11fda852782ac5",
+  "active": "e8582ce62ee75de2",
   "lastOpenFiles": [
+    "00 Menú.md",
+    "ObsidianGitSync/LICENSE",
+    "ObsidianGitSync/README.md",
+    "ObsidianGitSync/UPOSync/Horas.md",
+    "UPO/Gestion de días y Vacaciones.md",
+    "ObsidianGitSync/Clientes IPTV sync/Nacho.md",
+    "ObsidianGitSync/Clientes IPTV sync/Oriol.md",
+    "ObsidianGitSync/Apuntes/mensaje telegram.md",
+    "ObsidianGitSync/UPOSync/11 Septiembre 2025.md",
+    "ObsidianGitSync/UPOSync/15 Septiembre 2025.md",
+    "ObsidianGitSync/UPOSync/10 Septiembre 2025.md",
+    "ObsidianGitSync/UPOSync/09 Septiembre 2025.md",
+    "ObsidianGitSync/UPOSync/12 Septiembre 2025.md",
+    "ObsidianGitSync/ArchLinux/Comandos y atajos.md",
+    "ObsidianGitSync/Clientes IPTV sync/TiasEvita.md",
+    "ObsidianGitSync/Apuntes/CarPlay y Android Auto.md",
+    "ObsidianGitSync/Clientes IPTV sync/Javi otero 3.md",
+    "ObsidianGitSync/Clientes IPTV sync/Xavi Bombero.md",
+    "ObsidianGitSync/Clientes IPTV sync/Alex Telegram.md",
+    "ObsidianGitSync/Clientes IPTV sync/Sergio Prieto.md",
+    "ObsidianGitSync/Clientes IPTV sync/Abel @abelgui.md",
+    "ObsidianGitSync/Clientes IPTV sync/01NetTv - Login.md",
+    "ObsidianGitSync/ArchLinux/Instalaci��n Archlinux.md (codificación no válida)",
+    "ObsidianGitSync/ArchLinux/Instalaci锟斤拷n Archlinux.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/UPOSync/Gestion de d��as y Vacaciones.md (codificación no válida)",
+    "ObsidianGitSync/UPOSync/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci��n aplicaciones en Android.md (codificación no válida)",
+    "ObsidianGitSync/Apuntes/Ver _Aprendiendo SSH - Parte 2 _ Comandos AVANZADO Pelado Nerd.md",
+    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag��n V��zquez Compi Nacho.md (codificación no válida)",
+    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)",
+    "ObsidianGitSync/UPOSync",
     "Notas diarias/06-10-2025.md",
     "README.md",
     "Clientes/Jordi amigo de Abel.md",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
-    "Telegram/documents/NEXON_FLIXIP_Smarters - 20251006030225449.apk",
-    "Telegram/documents/MarMontoriul - 20251006030130433.conf",
-    "Telegram/documents",
-    "Telegram/photos",
-    "Telegram/Files",
     "Telegram/Pruebas - 20251006025753468.md",
-    "Telegram/Hola - 20251006025722267.md",
-    "Notas diarias/03-10-2025.md",
-    "UPO/Sin título.md",
-    "UPO/Gestion de dìas y Vacaciones.md",
-    "UPO/Gestion de días y Vacaciones.md",
-    "Aguacatec/Talleres/03 Tareas o TASK.md",
-    "Notas diarias/29-09-2025.md",
-    "Notas diarias/28-09-2025.md",
-    "Notas diarias/01-10-2025.md",
-    "Aguacatec/Talleres/00 Menù.md",
-    "Aguacatec/Talleres/00 Menú.md",
-    "00 Menú.md",
-    "Dataview Tareas.md",
-    "202509290406.md",
-    "202509290407.md",
-    "Sin título.base",
-    "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
-    "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
-    "Tareas/Consultorias.md",
-    "Tareas/Crear escaleta para Curso sobre notas y aplicaciones de notas.md",
-    "Recursos/GTD.md",
-    "Recursos/Método Zettelkasten.md",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131845.png",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309132239.png",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131417.png",
@@ -287,11 +289,6 @@
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133105.png",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131103.png",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123715.png",
-    "Proxmox/Instalaci贸n Proxmox",
-    "Plantillas/{{date}}Horas UPO.md",
-    "Plantillas/Plantilla cliente IPTV.md",
-    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
-    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)"
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123715.png"
   ]
 }
