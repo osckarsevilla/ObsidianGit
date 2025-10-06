@@ -16,5 +16,6 @@
   "obsidian-timeline",
   "simple-time-tracker",
   "calendar",
-  "git-sync"
+  "git-sync",
+  "telegram-sync"
 ]
