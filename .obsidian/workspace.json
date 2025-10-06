@@ -11,10 +11,14 @@
             "id": "32ae7006992c16fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas diarias/06-10-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "06-10-2025"
             }
           }
         ]
@@ -241,8 +245,10 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "929d48c17cbd7b3a",
+  "active": "32ae7006992c16fb",
   "lastOpenFiles": [
+    "Clientes/Jordi amigo de Abel.md",
+    "README.md",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
     "Telegram/documents/NEXON_FLIXIP_Smarters - 20251006030225449.apk",
     "Telegram/documents/MarMontoriul - 20251006030130433.conf",
@@ -285,7 +291,6 @@
     "Proxmox/Instalaci贸n Proxmox",
     "Plantillas/{{date}}Horas UPO.md",
     "Plantillas/Plantilla cliente IPTV.md",
-    "Plantillas/Template, Ejemplo template.md",
     "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
     "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)"
   ]
