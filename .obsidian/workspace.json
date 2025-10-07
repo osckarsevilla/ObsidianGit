@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fca6aa37744bfb7",
+        "id": "6d1d51db91716b02",
         "type": "tabs",
         "children": [
           {
-            "id": "e8582ce62ee75de2",
+            "id": "fafbaaf4dc6df6a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README"
             }
           }
         ]
@@ -23,25 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ebc4e65dbac994d4",
+    "id": "8a82ba8bc7acff35",
     "type": "split",
     "children": [
       {
-        "id": "40f0c001c8d0b6fa",
+        "id": "77e936760fb657bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0fbfb79084b3543f",
+            "id": "13492c9d9c5dbf79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "a49b85431644c5c5",
+            "id": "97e98a709dfe50a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +65,7 @@
             }
           },
           {
-            "id": "309f8ae88dc744f5",
+            "id": "e7ecb47f617a935e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,64 +73,29 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "929d48c17cbd7b3a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "7d2adfc3e66f134a",
+    "id": "f9010daa57a7bdcc",
     "type": "split",
     "children": [
       {
-        "id": "91e0393404b78e80",
+        "id": "8309c7fd456ab32b",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5e07b8bfcdb17e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "14534c75d733a84e",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "pw.todo-list"
-            }
-          },
-          {
-            "id": "4b98c3c4de7736da",
+            "id": "173f12ec6818bf44",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pruebas/TODO/ToDo.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -131,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de ToDo"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "510432df1012debb",
+            "id": "1a460e85723b5b84",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pruebas/TODO/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de ToDo"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "4bde32c7aa67d48a",
+            "id": "971d0e139f2004ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,65 +135,50 @@
             }
           },
           {
-            "id": "b48eeb24a18fa9aa",
+            "id": "dc4f94d172683922",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aguacatec/Talleres/03 Tareas o TASK.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 03 Tareas o TASK"
+              "title": "Esquema"
             }
           },
           {
-            "id": "6f6a24fb1c008fe6",
+            "id": "5afa4c8315aac4bf",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas las propiedades"
-            }
-          },
-          {
-            "id": "b08bd79458ccdbea",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Recursos/favicon_lasCharlas.png"
-              },
-              "icon": "lucide-info",
-              "title": "Propiedades de los archivos para favicon_lasCharlas"
-            }
-          },
-          {
-            "id": "9ee733cf39aa31b8",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
+              "type": "calendar",
               "state": {},
-              "icon": "check-small",
-              "title": "Todo"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "homepage:Open homepage": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -230,65 +186,57 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "zk-prefixer:Crear nueva nota única": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "digitalgarden:Digital Garden Publication Center": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "obsidian42-brat:BRAT": false,
-      "homepage:Open homepage": false,
-      "proletarian-wizard:Open planning": false,
-      "slides-extended:Show slide preview": false,
-      "remotely-save:Remotely Save": false
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e8582ce62ee75de2",
+  "active": "fafbaaf4dc6df6a3",
   "lastOpenFiles": [
-    "Telegram/voices/voice_1736181_20 - 20251006200802069.oga",
+    "Notas diarias/01-10-2025.md",
+    "Clientes/Untitled.md",
     "00 Menú.md",
-    "ObsidianGitSync/LICENSE",
-    "ObsidianGitSync/README.md",
-    "ObsidianGitSync/UPOSync/Horas.md",
-    "UPO/Gestion de días y Vacaciones.md",
-    "ObsidianGitSync/Clientes IPTV sync/Nacho.md",
-    "ObsidianGitSync/Clientes IPTV sync/Oriol.md",
-    "ObsidianGitSync/Apuntes/mensaje telegram.md",
-    "ObsidianGitSync/UPOSync/11 Septiembre 2025.md",
-    "ObsidianGitSync/UPOSync/15 Septiembre 2025.md",
-    "ObsidianGitSync/UPOSync/10 Septiembre 2025.md",
-    "ObsidianGitSync/UPOSync/09 Septiembre 2025.md",
-    "ObsidianGitSync/UPOSync/12 Septiembre 2025.md",
-    "ObsidianGitSync/ArchLinux/Comandos y atajos.md",
-    "ObsidianGitSync/Clientes IPTV sync/TiasEvita.md",
-    "ObsidianGitSync/Apuntes/CarPlay y Android Auto.md",
-    "ObsidianGitSync/Clientes IPTV sync/Javi otero 3.md",
-    "ObsidianGitSync/Clientes IPTV sync/Xavi Bombero.md",
-    "ObsidianGitSync/Clientes IPTV sync/Alex Telegram.md",
-    "ObsidianGitSync/Clientes IPTV sync/Sergio Prieto.md",
-    "ObsidianGitSync/Clientes IPTV sync/Abel @abelgui.md",
-    "ObsidianGitSync/Clientes IPTV sync/01NetTv - Login.md",
-    "ObsidianGitSync/ArchLinux/Instalaci��n Archlinux.md (codificación no válida)",
-    "ObsidianGitSync/ArchLinux/Instalaci锟斤拷n Archlinux.md (codificaci贸n no v谩lida)",
-    "ObsidianGitSync/UPOSync/Gestion de d��as y Vacaciones.md (codificación no válida)",
-    "ObsidianGitSync/UPOSync/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
-    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci��n aplicaciones en Android.md (codificación no válida)",
-    "ObsidianGitSync/Apuntes/Ver _Aprendiendo SSH - Parte 2 _ Comandos AVANZADO Pelado Nerd.md",
-    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag锟斤拷n V锟斤拷zquez Compi Nacho.md (codificaci贸n no v谩lida)",
-    "ObsidianGitSync/Clientes IPTV sync/Antonio Barrag��n V��zquez Compi Nacho.md (codificación no válida)",
-    "ObsidianGitSync/Clientes IPTV sync/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)",
-    "ObsidianGitSync/UPOSync",
-    "Notas diarias/06-10-2025.md",
     "README.md",
-    "Clientes/Jordi amigo de Abel.md",
+    "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
+    "UPO/Sin título.md",
+    "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "UPO/Gestion de dìas y Vacaciones.md",
+    "UPO/26 Septiembre 2025.md",
+    "UPO/22 Septiembre 2025.md",
+    "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
+    "Telegram/voices/voice_1736181_16 - 20250926203734761.oga",
+    "Telegram/voices",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131845.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309132239.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131417.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309124357.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123832.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133105.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131103.png",
+    "Telegram/photos",
+    "Tareas/Untitled.md",
+    "Tareas/Untitled 1.md",
+    "Tareas/ToDo.md",
+    "Tareas/Dataview Tareas.md",
+    "Tareas/Aguacatec.md",
+    "Recursos/lascharlas.ico",
+    "Recursos/favicon_lasCharlas.png",
+    "Recursos/cards.css",
+    "Recursos/Método Zettelkasten.md",
+    "Recursos/GTD.md",
+    "Recursos/Aplicaciones Notas.png",
+    "Pruebas/Linea Tiempo/Linea tiempo.md",
+    "Pruebas/Linea Tiempo",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309123715.png"
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742 1.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133105.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133105 1.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309132239.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309132239 1.png",
+    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309131845.png",
+    "Proxmox/Instalaci贸n Proxmox",
+    "Plantillas/plantilla prueba 2.md",
+    "Plantillas/Tareas.md",
+    "Plantillas/Horas.md",
+    "ObsidianGitSync/UPOSync/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "Notas diarias/29-09-2025.md",
+    "Notas diarias/28-09-2025.md",
+    "Aguacatec/Talleres/03 Tareas o TASK.md",
+    "Aguacatec/Talleres/00 Menù.md"
   ]
 }
