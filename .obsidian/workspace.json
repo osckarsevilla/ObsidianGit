@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Aguacatec/Talleres/Obsidian/Sincronizar Obsidian con Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sincronizar Obsidian con Git"
             }
           }
         ]
@@ -194,10 +194,11 @@
   },
   "active": "fafbaaf4dc6df6a3",
   "lastOpenFiles": [
+    "README.md",
+    "Aguacatec/Talleres/Obsidian/Sincronizar Obsidian con Git.md",
     "Notas diarias/01-10-2025.md",
     "Clientes/Untitled.md",
     "00 Menú.md",
-    "README.md",
     "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
     "UPO/Sin título.md",
     "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
