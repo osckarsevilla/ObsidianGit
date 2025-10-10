@@ -17,7 +17,7 @@ banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
 telefono: ""
-telegram: ""
+telegram: https://te.me/
 VPN:
 aliases:
   - cliente
@@ -55,7 +55,7 @@ aliases:
 
 
 >[!note] **IboPlayer**
->mac: `
+>mac: 
 > ```
 > 0d:5c:64:1f:32:41
 > ``` 
