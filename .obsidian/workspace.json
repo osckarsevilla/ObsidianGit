@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "29af47ed8fb05d82",
     "type": "split",
     "children": [
       {
-        "id": "058a439b6a745ccd",
+        "id": "3aff2c109138bfa2",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c291e1251ddf09",
+            "id": "bfe6dd92acceaddc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clientes/Marc Villamu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Marc Villamu"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8a82ba8bc7acff35",
+    "id": "2ace29477116cac8",
     "type": "split",
     "children": [
       {
-        "id": "77e936760fb657bb",
+        "id": "d6031c5caf55c2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "13492c9d9c5dbf79",
+            "id": "03c8f9c9d7ed596d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "97e98a709dfe50a1",
+            "id": "cebf5788c893a29b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "e7ecb47f617a935e",
+            "id": "64bd0f44965ddc03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,30 @@
     "width": 300
   },
   "right": {
-    "id": "f9010daa57a7bdcc",
+    "id": "c32cb40dd2b1105f",
     "type": "split",
     "children": [
       {
-        "id": "8309c7fd456ab32b",
+        "id": "7dfcc86b5de2bbd3",
         "type": "tabs",
         "children": [
           {
-            "id": "173f12ec6818bf44",
+            "id": "9f6062c5bf9228d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d9ace499ee5d4cc2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clientes/Marc Villamu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Marc Villamu"
             }
           },
           {
-            "id": "1a460e85723b5b84",
+            "id": "712e0549db9477b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clientes/Marc Villamu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Marc Villamu"
             }
           },
           {
-            "id": "971d0e139f2004ea",
+            "id": "71e7a77ccde13e42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,41 +147,18 @@
             }
           },
           {
-            "id": "dc4f94d172683922",
+            "id": "d75a8c9ff810eed9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clientes/Marc Villamu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
-            }
-          },
-          {
-            "id": "5afa4c8315aac4bf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "6449aac1389bb08a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas las propiedades"
+              "title": "Esquema de Marc Villamu"
             }
           }
         ]
@@ -177,19 +170,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Crear nueva nota única": false,
-      "remotely-save:Remotely Save": false,
-      "tasknotes:Open pomodoro": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": false,
-      "tasknotes:Open task list": false,
-      "tasknotes:Open notes": false,
-      "tasknotes:Open agenda": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "homepage:Open homepage": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -197,57 +177,57 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "callout-manager:Insert Callout": false
+      "templater-obsidian:Templater": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "13492c9d9c5dbf79",
+  "active": "bfe6dd92acceaddc",
   "lastOpenFiles": [
-    "Clientes/Marc Villamu.md",
-    "Plantillas/Tareas.md",
-    "Plantillas/Template, Ejemplo template.md",
-    "Plantillas/Plantilla Propiedades.md",
-    "Plantillas/plantilla prueba 2.md",
-    "Plantillas/Nota Diaria Plantilla.md",
-    "Plantillas/Plantilla cliente IPTV.md",
-    "Plantillas/Lista.md",
-    "Plantillas/Lista 1.md",
-    "Notas diarias/11-10-2025.md",
-    "Clientes/Papa.md",
-    "Notas diarias/08-10-2025.md",
-    "Aguacatec/Talleres/Obsidian/Sincronizar Obsidian con Git.md",
-    "Recursos/Pasted image 20251008030928.png",
-    "Recursos/Pasted image 20251008030440.png",
-    "Recursos/Pasted image 20251008025333.png",
-    "Recursos/Pasted image 20251008025321.png",
-    "Aguacatec/Talleres/Menu.md",
-    "Aguacatec/Talleres/03 Tareas o TASK.md",
-    "Aguacatec/Talleres/Menú.md",
-    "Recursos/Pasted image 20251008022036.png",
-    "Recursos/Pasted image 20251008021553.png",
-    "Clientes/Untitled.md",
-    "Notas diarias/30-09-2025.md",
-    "Notas diarias/06-10-2025.md",
-    "Notas diarias/05-10-2025.md",
-    "Aguacatec/Podcast/Escaleta Podcast IA.md",
-    "Clientes/XX-Tutorial instalaci锟斤拷n aplicaciones en Android.md (codificaci贸n no v谩lida)",
-    "Pruebas/TODO",
-    "Aguacatec/Podcast",
-    "README.md",
+    "Clientes/Javi otero 3.md",
+    "Clientes/Abel @abelgui.md",
     "Notas diarias/01-10-2025.md",
-    "00 Menú.md",
+    "Clientes/Marc Villamu.md",
     "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
+    "web clipper/Guía Obsidian con sincronización instantánea, gratuita y auto-hospedada.md",
+    "web clipper",
     "UPO/Sin título.md",
+    "UPO/Horas.md",
+    "UPO/Gestion de d��as y Vacaciones.md (codificación no válida)",
     "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
+    "UPO/Gestion de días y Vacaciones.md",
+    "UPO/Gestion de dìas y Vacaciones.md",
+    "UPO/26 Septiembre 2025.md",
+    "UPO/23 Septiembre 2025.md",
+    "UPO/22 Septiembre 2025.md",
+    "UPO/19 Septiembre 2025.md",
+    "UPO/18 Septiembre 2025.md",
+    "UPO/17  Septiembre 2025.md",
+    "UPO/16 Septiembre 2025.md",
+    "UPO/15 Septiembre 2025.md",
+    "UPO/12 Septiembre 2025.md",
+    "UPO/11 Septiembre 2025.md",
+    "UPO/10 Septiembre 2025.md",
+    "UPO/09 Septiembre 2025.md",
+    "UPO",
+    "Trabajo Marina/Turandot (Puccini).md",
+    "Trabajo Marina/Passenger.md",
+    "Trabajo Marina",
     "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
     "Telegram/voices/voice_1736181_16 - 20250926203734761.oga",
     "Telegram/voices",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
     "Telegram/photos",
-    "Recursos/lascharlas.ico",
+    "Telegram",
+    "Telegra.ph/Unraid/Tutoriales.md",
+    "Telegra.ph/Tutoriales ayuda/Update ESPHome 2024.6.0 - 19 Junio 2024.md",
     "Recursos/favicon_lasCharlas.png",
-    "Recursos/cards.css",
+    "Recursos/Pasted image 20251008030928.png",
+    "Recursos/Pasted image 20251008030440.png",
+    "Recursos/Pasted image 20251008025333.png",
+    "Recursos/Pasted image 20251008025321.png",
+    "Recursos/Pasted image 20251008022036.png",
+    "Recursos/Pasted image 20251008021553.png",
     "Recursos/Aplicaciones Notas.png",
     "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742.png"
   ]
