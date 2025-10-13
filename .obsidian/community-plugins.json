@@ -1,17 +1,9 @@
 [
-  "dataview",
+  "obsidian42-brat",
+  "git-sync",
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "calendar",
   "obsidian-icon-folder",
-  "remotely-save",
-  "pexels-banner",
-  "tasknotes",
-  "obsidian-clipper",
-  "ics",
-  "page-properties",
-  "homepage",
-  "obsidian42-brat",
-  "git-sync",
-  "callout-manager"
+  "pexels-banner"
 ]
