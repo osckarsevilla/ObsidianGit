@@ -1,4 +1,4 @@
 ```dataview
-TASK 
-FROM "Tareas"
+task
+FROM "/Tareas"
 ```
