@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Semana 12-19 Octubre.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semana 12-19 Octubre"
+              "title": "README"
             }
           }
         ]
@@ -222,10 +222,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "03c8f9c9d7ed596d",
+  "active": "c216a0837159597d",
   "lastOpenFiles": [
-    "Excel/Sin título.md",
     "Excel/Semana 12-19 Octubre.md",
+    "Excel/Sin título.md",
     "Excel/Horas UPO.sheet",
     "Excel",
     "Tareas/ToDo.md",
