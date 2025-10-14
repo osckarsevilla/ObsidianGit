@@ -6,10 +6,18 @@
   "calendar",
   "obsidian-icon-folder",
   "pexels-banner",
-  "spreadsheets",
   "proletarian-wizard",
   "page-properties",
   "multi-properties",
   "obsidian-meta-bind-plugin",
-  "homepage"
+  "homepage",
+  "obsidian-excel-to-markdown-table",
+  "callout-manager",
+  "obsidian-clipper",
+  "dataview",
+  "digitalgarden",
+  "obsidian-excalidraw-plugin",
+  "telegram-sync",
+  "tasknotes",
+  "simple-time-tracker"
 ]
