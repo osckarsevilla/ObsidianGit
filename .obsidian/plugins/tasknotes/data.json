@@ -238,5 +238,10 @@
       "id": "ics_2kewt0ukbmfuip4y6",
       "lastFetched": "2025-09-29T00:54:55.954Z"
     }
-  ]
+  ],
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2025-10-13"
 }
