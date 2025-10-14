@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Cupertino",
+  "cssTheme": "Transparent",
   "theme": "obsidian",
-  "accentColor": "#a49abc",
+  "accentColor": "#82764a",
   "enabledCssSnippets": [
     "cards"
   ],
-  "nativeMenus": true
+  "nativeMenus": false
 }
