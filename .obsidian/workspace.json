@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Clientes/Gonzalo Alicante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gonzalo Alicante"
             }
           }
         ]
@@ -206,7 +206,6 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "spreadsheets:New Spreadsheet": false,
       "proletarian-wizard:Open planning": false,
       "callout-manager:Insert Callout": false,
       "digitalgarden:Digital Garden Publication Center": false,
@@ -224,13 +223,15 @@
   },
   "active": "c216a0837159597d",
   "lastOpenFiles": [
+    "Notas diarias/23-10-2025.md",
+    "Clientes/Gonzalo Alicante.md",
+    "README.md",
     "Excel/Semana 12-19 Octubre.md",
     "Excel/Sin título.md",
     "Excel/Horas UPO.sheet",
     "Excel",
     "Tareas/ToDo.md",
     "Notas diarias/14-10-2025.md",
-    "README.md",
     "Dataview Tareas.md",
     "00 Menú.md",
     "Recursos/Aplicaciones Notas.png",
@@ -254,8 +255,6 @@
     "UPO/18 Septiembre 2025.md",
     "UPO/17  Septiembre 2025.md",
     "UPO/16 Septiembre 2025.md",
-    "UPO/15 Septiembre 2025.md",
-    "UPO/12 Septiembre 2025.md",
     "UPO",
     "Trabajo Marina",
     "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
