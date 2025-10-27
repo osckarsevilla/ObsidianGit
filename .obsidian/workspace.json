@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08e259ccb163bd46",
+        "id": "6dec3b31b37827c8",
         "type": "tabs",
         "children": [
           {
-            "id": "c216a0837159597d",
+            "id": "27b7a2e517555399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clientes/Gonzalo Alicante.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gonzalo Alicante"
+              "title": "README"
             }
           }
         ]
@@ -94,8 +94,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -181,6 +181,16 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
+            }
+          },
+          {
+            "id": "97b31ee170435687",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
               "icon": "check-small",
               "title": "Todo"
             }
@@ -194,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "zk-prefixer:Crear nueva nota única": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -207,6 +216,7 @@
       "templater-obsidian:Templater": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "proletarian-wizard:Open planning": false,
+      "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
@@ -218,43 +228,49 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "c216a0837159597d",
+  "active": "27b7a2e517555399",
   "lastOpenFiles": [
-    "Notas diarias/23-10-2025.md",
+    "Dataview Tareas.md",
+    "Notas diarias/27-10-2025.md",
+    "Plantillas/Lista.md",
+    "Clientes/Javi Otero 1.md",
+    "Recursos/Portada Downloader.png",
+    "Recursos/opciones desarrolladores.png",
+    "Recursos/FireTV Downloader.png",
+    "Recursos/Pasted image 20251008030928.png",
+    "Recursos/Alex IboPlayer.jpg",
+    "Recursos/Aplicaciones Notas.png",
+    "Clientes/Alex Telegram.md",
+    "Clientes/Sergio Prieto.md",
+    "Clientes/Javi otero 3.md",
+    "Activar Iboplayer a Alex, ya caduca el periodo de prueba.md",
+    "Notas diarias/26-10-2025.md",
+    "Clientes/Abel.md",
+    "Clientes/Xavi Bombero.md",
+    "Clientes/TiasEvita.md",
+    "Clientes/Papa.md",
+    "Clientes/Oriol.md",
+    "Clientes/Nacho.md",
+    "Clientes/Marc Villamu.md",
+    "Clientes/Listado.md",
+    "Clientes/Jordi amigo Abel.md",
     "Clientes/Gonzalo Alicante.md",
+    "Clientes/Antonio Barragan Vazquez Compi Nacho.md",
+    "Clientes/Bombero2.md",
+    "Clientes/Untitled.md",
+    "Notas diarias/23-10-2025.md",
     "README.md",
     "Excel/Semana 12-19 Octubre.md",
     "Excel/Sin título.md",
     "Excel/Horas UPO.sheet",
     "Excel",
-    "Tareas/ToDo.md",
-    "Notas diarias/14-10-2025.md",
-    "Dataview Tareas.md",
-    "00 Menú.md",
-    "Recursos/Aplicaciones Notas.png",
-    "Clientes/Abel @abelgui.md",
-    "Clientes/Marc Villamu.md",
-    "Clientes/Javi otero 3.md",
-    "Notas diarias/01-10-2025.md",
-    "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
-    "web clipper/Guía Obsidian con sincronización instantánea, gratuita y auto-hospedada.md",
     "web clipper",
-    "UPO/Sin título.md",
-    "UPO/Horas.md",
     "UPO/Gestion de d��as y Vacaciones.md (codificación no válida)",
     "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
-    "UPO/Gestion de días y Vacaciones.md",
-    "UPO/Gestion de dìas y Vacaciones.md",
-    "UPO/26 Septiembre 2025.md",
-    "UPO/23 Septiembre 2025.md",
-    "UPO/22 Septiembre 2025.md",
-    "UPO/19 Septiembre 2025.md",
-    "UPO/18 Septiembre 2025.md",
-    "UPO/17  Septiembre 2025.md",
-    "UPO/16 Septiembre 2025.md",
     "UPO",
     "Trabajo Marina",
     "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
@@ -262,12 +278,7 @@
     "Telegram/voices",
     "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
     "Recursos/favicon_lasCharlas.png",
-    "Recursos/Pasted image 20251008030928.png",
     "Recursos/Pasted image 20251008030440.png",
-    "Recursos/Pasted image 20251008025333.png",
-    "Recursos/Pasted image 20251008025321.png",
-    "Recursos/Pasted image 20251008022036.png",
-    "Recursos/Pasted image 20251008021553.png",
-    "Proxmox/Instalaci贸n Proxmox/Pasted image 20230309133742.png"
+    "Recursos/Pasted image 20251008025333.png"
   ]
 }
