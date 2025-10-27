@@ -18,7 +18,6 @@ aliases:
 ---
 ---
 Tareas pendientes  
-[[Activar Iboplayer a Alex, ya caduca el periodo de prueba]]
 
 
 ---
@@ -37,17 +36,23 @@ Fecha y hora: 2025-09-06
 
 
 
-**Nombre**:     Alex          **usuario telegram**: [@ibargol] (https://t.me/ibargol)
+**Nombre**:     Alex          **usuario telegram**: [ibargol](https://t.me/ibargol)
 >[!note] Datos Host
 >`http://davidtv.vip:80`
->user: ```w7iho5a4l2```
->passwd: `v4k0nft5lw`
+>user:
+> ```
+>w7iho5a4l2
+>```
+>passwd:
+> ```
+> v4k0nft5lw
+> ```
 >url: 
 >```
 >http://gamma.proxy-pass.vip:80/get.php?username=w7iho5a4l2&password=v4k0nft5lw&type=m3u_plus&output=mpegts
 
 
-
+![[Alex IboPlayer.jpg]]
 
 >[!note] **IboPlayer**
 >
@@ -59,7 +64,7 @@ Fecha y hora: 2025-09-06
 >
 >id:
 > ```
->407322
+>110212
 >  ```
 > Alta: `  06 /09  /2025/` 
 > Baja : ` 13/ 09/2026/`
