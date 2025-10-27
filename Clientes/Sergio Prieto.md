@@ -13,6 +13,8 @@ VPN: false
 aliases:
   - listado
 telegram:
+telegraph_page_url:
+telegraph_page_path:
 ---
 
 
