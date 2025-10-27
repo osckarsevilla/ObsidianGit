@@ -12,6 +12,8 @@ banner-fade: "-500"
 content-start: "50"
 aliases:
   - listado
+telegraph_page_url:
+telegraph_page_path:
 ---
 
 
