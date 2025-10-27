@@ -27,7 +27,7 @@ Hora: 10:43
 
 
 
-**Usuario telegram**: [@pepito] (enlace telegram)
+**Usuario telegram**: [@@Jo_123c] (https://te.me/@Jo_123c)
 
 
 >[!note] Datos Host
