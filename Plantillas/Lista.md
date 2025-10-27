@@ -17,7 +17,6 @@ banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
 telefono: ""
-telegram: https://te.me/
 VPN:
 aliases:
   - cliente
@@ -32,10 +31,7 @@ aliases:
 
  Fecha de Inicio: <%tp.date.now("DD-MM-YYYY")%>
 
-
-
-
-
+Telegram : [pepito](https://t.me/pepito)
 
 
 >[!summary] Datos Host
@@ -81,5 +77,20 @@ aliases:
 Si tienes Downloader instalado, solo pones este código  `1171959` y se descarga directamente
 
 
- >[!info] **Aplicaciones Para android**
- >[Enlaces](http://sw-apps.net/sw_nexon/Android%20App/NEXON-CODE-DOWNLOADER.txt) apk android
+ >[!info] **Instalar Downloader en FireTV**
+ >![[Portada Downloader.png|700x200]]
+ >Primero preparar el FireTv, vamos a esta ruta
+ >`menú=>Ajustes=>Mi Fire TV`. Click en `acerca de o About me`. Pulsar 7 veces sobre el nombre del dispositivo. Cuando alcances la última pulsación, se activará el modo desarrollador *sale abajo el mensaje*.
+ >Nos movemos otra vez al menú y veras que se activo la opción para desarroladores
+ >![[opciones desarrolladores.png|600x250]]
+ >
+  >Activamos *DEPURADO ADB* e *INSTALAR APLICACIONES DE TERCEROS*
+  >Regresamos al Menú Principal y entramos en *aplicaciones*, buscamos *Downloader*, descargamos, aceptamos los permisos e instalamos.
+  >*Ahora ya tenemos la aplicación instalada y podemos descargar nuestras aplicaciones de 2 maneras.
+  >En la barra de navegación de la aplicación podemos poner un código y directamente descarga e instala esa aplicación o bien con una url que no lleve a la web y podamos realizar esa descarga
+  
+ 
+ 
+ >[Enlaces](http://sw-apps.net/sw_nexon/Android%20App/NEXON-CODE-DOWNLOADER.txt) 
+ 
+ 
