@@ -18,6 +18,8 @@ telegram: "@jordivs74"
 VPN: true
 aliases:
   - cliente
+telegraph_page_url:
+tele:
 ---
 
 ---
