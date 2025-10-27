@@ -13,6 +13,8 @@ telefono:
 VPN: false
 aliases:
   - listado
+telegraph_page_url:
+telegraph_page_path:
 ---
 
 
