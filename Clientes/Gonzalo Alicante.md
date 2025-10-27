@@ -21,6 +21,8 @@ telegram: https://te.me/
 VPN:
 aliases:
   - cliente
+telegraph_page_url:
+telegraph_page_path:
 ---
 
 ---
