@@ -11,6 +11,8 @@ banner_y: "40"
 banner-fade: "-500"
 content-start: "50"
 telefono: "696959110"
+telegraph_page_url:
+telegraph_page_path:
 ---
 
 
