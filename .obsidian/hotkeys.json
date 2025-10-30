@@ -96,5 +96,13 @@
       ],
       "key": "N"
     }
+  ],
+  "git-sync:push-git": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }
