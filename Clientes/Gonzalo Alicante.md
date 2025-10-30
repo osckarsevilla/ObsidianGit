@@ -66,8 +66,11 @@ telegraph_page_path:
 > 289638
 > ```
 > 
-> Alta: `23-10-25`
-> Baja : `  /  /    /`
+> Alta: `30-10-2025`
+> Baja : `30-10-2026`
+> ![[iboplayer gonzalo.png]]
+
+
 
 
 
