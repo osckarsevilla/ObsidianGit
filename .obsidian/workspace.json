@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML4W.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML4W"
+              "title": "README"
             }
           }
         ]
@@ -244,8 +244,8 @@
   },
   "active": "27b7a2e517555399",
   "lastOpenFiles": [
-    "README.md",
     "ML4W.md",
+    "README.md",
     "Notas diarias/30-10-2025.md",
     "Dataview Tareas.md",
     "Notas diarias/27-10-2025.md",
