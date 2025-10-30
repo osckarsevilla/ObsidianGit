@@ -19,7 +19,7 @@ Mas o menos con estas opciones, tampoco es necesario volverse loco
   ### Repositorio
   - Ahora necesitamos dar seguridad a ese repositorio, en nuestra cuenta de GitHub. Arriba a la derecha, en la opciones no vamos a mover hasta la opción `settings`, y después pulsamos en `Developers settings` ![[Pasted image 20251008025333.png]]
   - Vamos a crear un token `clasico`
-  - ![[Pasted image 20251008030440.png]]
+  - ![[obtener token github.png]]
 
 
 
