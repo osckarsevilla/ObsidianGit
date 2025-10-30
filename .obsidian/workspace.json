@@ -191,6 +191,16 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
+            }
+          },
+          {
+            "id": "0c709a99e02bc8b7",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
               "icon": "check-small",
               "title": "Todo"
             }
@@ -204,18 +214,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Crear nueva nota única": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "proletarian-wizard:Open planning": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
       "digitalgarden:Digital Garden Publication Center": false,
@@ -229,11 +227,25 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "obsidian-telegraph-publish:Publish to Telegraph": false
+      "obsidian-telegraph-publish:Publish to Telegraph": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "proletarian-wizard:Open planning": false
     }
   },
   "active": "27b7a2e517555399",
   "lastOpenFiles": [
+    "Notas diarias/30-10-2025.md",
+    "README.md",
     "Dataview Tareas.md",
     "Notas diarias/27-10-2025.md",
     "Plantillas/Lista.md",
@@ -263,9 +275,7 @@
     "Clientes/Bombero2.md",
     "Clientes/Untitled.md",
     "Notas diarias/23-10-2025.md",
-    "README.md",
     "Excel/Semana 12-19 Octubre.md",
-    "Excel/Sin título.md",
     "Excel/Horas UPO.sheet",
     "Excel",
     "web clipper",
