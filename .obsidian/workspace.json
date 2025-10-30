@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Pruebas/Linea Tiempo/Linea tiempo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Linea tiempo"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "right": {
     "id": "c32cb40dd2b1105f",
@@ -244,19 +244,27 @@
   },
   "active": "27b7a2e517555399",
   "lastOpenFiles": [
-    "ML4W.md",
+    "Recursos/obtener token github.png",
+    "Recursos/Método Zettelkasten.md",
+    "Recursos/iboplayer gonzalo.png",
+    "Recursos/GTD.md",
+    "Recursos/FireTV Downloader.png",
+    "Recursos/favicon_lasCharlas.png",
+    "Recursos/crear nuevo repositorio.png",
+    "Recursos/Aplicaciones Notas.png",
+    "Recursos/Alex IboPlayer.jpg",
+    "Recursos/opciones desarrolladores.png",
+    "Recursos/Pasted image 20251008022036.png",
+    "Recursos/Pasted image 20251008025321.png",
+    "Recursos/Pasted image 20251008025333.png",
+    "Clientes/Gonzalo Alicante.md",
     "README.md",
+    "ML4W.md",
     "Notas diarias/30-10-2025.md",
     "Dataview Tareas.md",
     "Notas diarias/27-10-2025.md",
     "Plantillas/Lista.md",
     "Clientes/Javi Otero 1.md",
-    "Recursos/Portada Downloader.png",
-    "Recursos/opciones desarrolladores.png",
-    "Recursos/FireTV Downloader.png",
-    "Recursos/Pasted image 20251008030928.png",
-    "Recursos/Alex IboPlayer.jpg",
-    "Recursos/Aplicaciones Notas.png",
     "Clientes/Alex Telegram.md",
     "Clientes/Sergio Prieto.md",
     "Clientes/Javi otero 3.md",
@@ -271,11 +279,7 @@
     "Clientes/Marc Villamu.md",
     "Clientes/Listado.md",
     "Clientes/Jordi amigo Abel.md",
-    "Clientes/Gonzalo Alicante.md",
     "Clientes/Antonio Barragan Vazquez Compi Nacho.md",
-    "Clientes/Bombero2.md",
-    "Clientes/Untitled.md",
-    "Notas diarias/23-10-2025.md",
     "Excel/Horas UPO.sheet",
     "Excel",
     "web clipper",
@@ -285,10 +289,6 @@
     "Trabajo Marina",
     "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
     "Telegram/voices/voice_1736181_16 - 20250926203734761.oga",
-    "Telegram/voices",
-    "Telegram/photos/photo_1736181_18 - 20251006030054815.jpg",
-    "Recursos/favicon_lasCharlas.png",
-    "Recursos/Pasted image 20251008030440.png",
-    "Recursos/Pasted image 20251008025333.png"
+    "Telegram/voices"
   ]
 }
