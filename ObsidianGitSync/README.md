@@ -1,2 +1,0 @@
-## Sync Obsidian con Git
-
