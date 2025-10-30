@@ -11,7 +11,7 @@ Añado tablas de excel para calcular horas extras
 
 Cambio el SO de Macbook pro, ahora estoy con BigSur
 
-
+Otro cambio mas, ahora estoy con ArchLinux y una versión de Hyprland basada en 
 ## Datos del dispositivo
 
 MacBook Pro (13 pulgadas, mediados 2010)
