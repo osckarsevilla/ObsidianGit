@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6dec3b31b37827c8",
+        "id": "432174fddcfa389b",
         "type": "tabs",
         "children": [
           {
-            "id": "27b7a2e517555399",
+            "id": "183a923d48f60b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "web clipper/Web Clipper en Obsidian Captura Todo desde tu Navegador con esta nueva herramienta 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Web Clipper en Obsidian Captura Todo desde tu Navegador con esta nueva herramienta 1"
             }
           }
         ]
@@ -265,10 +265,22 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "27b7a2e517555399",
+  "active": "183a923d48f60b81",
   "lastOpenFiles": [
+    "web clipper/Guía Obsidian con sincronización instantánea, gratuita y auto-hospedada.md",
     "Notas diarias/19-11-2025.md",
+    "web clipper/Web Clipper en Obsidian Captura Todo desde tu Navegador con esta nueva herramienta 1.md",
+    "web clipper/Kitty, el mejor terminal para Linux.md",
+    "web clipper/osckarsevillaObsidianGit Repositorio sync con git y obsidian.md",
+    "web clipper/Tareas en Curso  Vikunja.md",
+    "web clipper/Web Clipper en Obsidian Captura Todo desde tu Navegador con esta nueva herramienta.md",
+    "UPO/09 Septiembre 2025.md",
+    "web clipper/52 Aprende a sincronizar tus notas y vault con Github en Obsidian   Sin programas extras (2023).md",
+    "Clippings/osckarsevillaObsidianGit Repositorio sync con git y obsidian.md",
+    "web clipper/types.json",
     "README.md",
+    "web clipper/Gu铆a Obsidian con sincronizaci贸n instant谩nea, gratuita y auto-hospedada.md",
+    "Clippings",
     "Pruebas/Linea Tiempo/Linea tiempo.md",
     "Recursos/obtener token github.png",
     "Recursos/Método Zettelkasten.md",
@@ -293,16 +305,6 @@
     "Clientes/Sergio Prieto.md",
     "Clientes/Javi otero 3.md",
     "Activar Iboplayer a Alex, ya caduca el periodo de prueba.md",
-    "Notas diarias/26-10-2025.md",
-    "Clientes/Abel.md",
-    "Clientes/Xavi Bombero.md",
-    "Clientes/TiasEvita.md",
-    "Clientes/Papa.md",
-    "Clientes/Oriol.md",
-    "Clientes/Nacho.md",
-    "Clientes/Marc Villamu.md",
-    "Clientes/Listado.md",
-    "Clientes/Jordi amigo Abel.md",
     "Excel/Horas UPO.sheet",
     "Excel",
     "web clipper",
@@ -310,8 +312,6 @@
     "UPO/Gestion de d锟斤拷as y Vacaciones.md (codificaci贸n no v谩lida)",
     "UPO",
     "Trabajo Marina",
-    "Telegram/voices/voice_1736181_17 - 20250926203842255.oga",
-    "Telegram/voices/voice_1736181_16 - 20250926203734761.oga",
-    "Telegram/voices"
+    "Telegram/voices/voice_1736181_17 - 20250926203842255.oga"
   ]
 }
