@@ -102,7 +102,15 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "U"
+      "key": "ArrowUp"
+    }
+  ],
+  "git-sync:pull-git": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
     }
   ]
 }
