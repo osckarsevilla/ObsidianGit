@@ -12,6 +12,10 @@ Añado tablas de excel para calcular horas extras
 Cambio el SO de Macbook pro, ahora estoy con BigSur
 
 Otro cambio, ahora estoy en Archlinux y escritorio Hyprland con los dotfiles de [ML4W](https://mylinuxforwork.github.io/dotfiles/), pondre todas mis impresiones [[ML4W]]
+
+
+
+
 Nuevo cambio, utilizando ArchLinux+Hyprland+Niri, me gusta mucho mas asì
 
 
