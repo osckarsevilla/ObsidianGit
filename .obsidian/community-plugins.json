@@ -13,7 +13,6 @@
   "homepage",
   "obsidian-excel-to-markdown-table",
   "callout-manager",
-  "obsidian-clipper",
   "dataview",
   "digitalgarden",
   "obsidian-excalidraw-plugin",
@@ -21,5 +20,6 @@
   "tasknotes",
   "simple-time-tracker",
   "obsidian-telegraph-publish",
-  "quickadd"
+  "quickadd",
+  "obsidian-clipper"
 ]
