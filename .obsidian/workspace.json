@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/19-11-2025.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-11-2025"
+              "title": "README"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "27b7a2e517555399",
   "lastOpenFiles": [
-    "README.md",
     "Notas diarias/19-11-2025.md",
+    "README.md",
     "Pruebas/Linea Tiempo/Linea tiempo.md",
     "Recursos/obtener token github.png",
     "Recursos/Método Zettelkasten.md",
