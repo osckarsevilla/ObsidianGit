@@ -1,7 +1,18 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "auto"
+    ],
+    "settings": {
+      "auto": [
+        {
+          "changes": {
+            "icon": "lucide-bot",
+            "color": "45, 169, 210"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,
